@@ -1,55 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-    
-    <entry>
-      <title>暑期课程引发的思考</title>
-      <link href="/2018/07/15/%E6%9A%91%E6%9C%9F%E8%AF%BE%E7%A8%8B%E5%BC%95%E5%8F%91%E7%9A%84%E6%80%9D%E8%80%83/"/>
-      <url>/2018/07/15/%E6%9A%91%E6%9C%9F%E8%AF%BE%E7%A8%8B%E5%BC%95%E5%8F%91%E7%9A%84%E6%80%9D%E8%80%83/</url>
-      <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>暑期课程选修了一门实证金融，当时觉得至少名字里面有“金融”两个字于是便选上了。到目前为止上了一周的课，今天本来想复习（预习）下所学的课程，结果时间序列？还以为只是些金融概念的普及呢？大致看了下课件，基本上是概率论和计量经济学的内容，也就是说所谓的实证分析其实是量化分析……</p><a id="more"></a><p>然后，今天才知道实证（分析）的意思（早知道的话就不选了，还不如愉快地划划水）</p><blockquote><p><strong>实证分析</strong>是指只对经济现象、经济行为或经济活动及其发展趋势进行客观分析，得出一些规律性的结论。其特点为：回答 “是什么”的问题；分析问题具有客观性；得出的结论可以通过经验事实进行验证。其中实证分析是重要的。 </p></blockquote><p>这个解释看似和量化没什么关系，但是证明结论的客观性当然是要拿数据说话才会更有说服力，终究是逃不过量化分析的。</p><h2 id="关于量化分析"><a href="#关于量化分析" class="headerlink" title="关于量化分析"></a>关于量化分析</h2><p>我本身是不排斥量化分析的。定量分析对应的是定性分析，然而现在的生活离不开数字。比如说要给一个商品定价，定性分析只会给一个大概的思路，商品的价格却是一个实在的数字。所以说量化分析可谓是在生活中无处不在，有数字的地方基本上都有它。</p><p>然而总觉得量化分析是把问题复杂化，像是金融这一领域。这方面感觉自己也说不太清楚，反正量化分析依托于复杂的数学理论以及各种模型。当然没有量化的话又确实找不到什么更好的办法。</p><h2 id="未来的事"><a href="#未来的事" class="headerlink" title="未来的事"></a>未来的事</h2><p>至于为什么有所思考，是因为我一直在考虑以后要做什么。虽然学的是金融，但是金融本质上都是空虚的理论。记得教会计的老师说过你们学的课将来工作能用上的只有会计……也就是说所学的东西要不去做研究，直接出国或是读研；要么就是当老师，嗯，所学知识的转化率最高了……</p><p>虽然说金融目前是热门行业之一（好奇从业金融的话每天的工作是什么），但是如果就本科所学的内容来说，毕业了基本上就是重头来过。所以我的目光便放在了量化分析方面，主要是因为计量经济学的原因吧（虽然计量学的也不是特别明白）。现在真是意外地发现数据分析，深度学习，实证分析的理论基础基本上是相同的，然而最担心的就是自己现在的数学功底不是很好，但是这个方向感觉是跑不掉了。至少是实打实的技术，顺便和金融还有那么一点关系。所以说以后的方向也就有了，基本上是计算机+统计学。感觉又是漫漫的学习之路……</p><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>发现学院2018年的方向也变了</p><blockquote><p>2018年招收专业为金融学（数据与计量分析）</p><ul><li>金融计量分析方向</li><li>金融大数据分析方向</li></ul></blockquote><p>不知道是好事还是坏事……</p>]]></content>
-      
-      
-    </entry>
-    
-    <entry>
-      <title>关于投机</title>
-      <link href="/2018/07/13/%E5%85%B3%E4%BA%8E%E6%8A%95%E6%9C%BA/"/>
-      <url>/2018/07/13/%E5%85%B3%E4%BA%8E%E6%8A%95%E6%9C%BA/</url>
-      <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>一直在投机这方面摸爬滚打，到现在还是没有什么变化。想了想还是自己没有形成自己的判断。希望这篇文章能不断总结我的想法，形成自己的体系。<br><a id="more"></a></p><h1 id="理念"><a href="#理念" class="headerlink" title="理念"></a>理念</h1><p>最重要的还是顺势而为。随着市场的方向去做单，才是最明智的。</p><p>底部建仓，高位抛出。说出来感觉很简单，但是永远判断不好。</p><h1 id="策略"><a href="#策略" class="headerlink" title="策略"></a>策略</h1><p>不敢奢求波段，目前先只看日线来分析。</p><p>（这样每天也能减少不必要看盘的时间）</p><p>每天坚持分析，挂单操作。短线的话暂时不考虑了，交易频繁也不是件好事。</p>]]></content>
-      
+<search>
+  <entry>
+    <title><![CDATA[暑期课程引发的思考]]></title>
+    <url>%2F2018%2F07%2F15%2F%E6%9A%91%E6%9C%9F%E8%AF%BE%E7%A8%8B%E5%BC%95%E5%8F%91%E7%9A%84%E6%80%9D%E8%80%83%2F</url>
+    <content type="text"><![CDATA[前言暑期课程选修了一门实证金融，当时觉得至少名字里面有“金融”两个字于是便选上了。到目前为止上了一周的课，今天本来想复习（预习）下所学的课程，结果时间序列？还以为只是些金融概念的普及呢？大致看了下课件，基本上是概率论和计量经济学的内容，也就是说所谓的实证分析其实是量化分析…… 然后，今天才知道实证（分析）的意思（早知道的话就不选了，还不如愉快地划划水） 实证分析是指只对经济现象、经济行为或经济活动及其发展趋势进行客观分析，得出一些规律性的结论。其特点为：回答 “是什么”的问题；分析问题具有客观性；得出的结论可以通过经验事实进行验证。其中实证分析是重要的。 这个解释看似和量化没什么关系，但是证明结论的客观性当然是要拿数据说话才会更有说服力，终究是逃不过量化分析的。 关于量化分析我本身是不排斥量化分析的。定量分析对应的是定性分析，然而现在的生活离不开数字。比如说要给一个商品定价，定性分析只会给一个大概的思路，商品的价格却是一个实在的数字。所以说量化分析可谓是在生活中无处不在，有数字的地方基本上都有它。 然而总觉得量化分析是把问题复杂化，像是金融这一领域。这方面感觉自己也说不太清楚，反正量化分析依托于复杂的数学理论以及各种模型。当然没有量化的话又确实找不到什么更好的办法。 未来的事至于为什么有所思考，是因为我一直在考虑以后要做什么。虽然学的是金融，但是金融本质上都是空虚的理论。记得教会计的老师说过你们学的课将来工作能用上的只有会计……也就是说所学的东西要不去做研究，直接出国或是读研；要么就是当老师，嗯，所学知识的转化率最高了…… 虽然说金融目前是热门行业之一（好奇从业金融的话每天的工作是什么），但是如果就本科所学的内容来说，毕业了基本上就是重头来过。所以我的目光便放在了量化分析方面，主要是因为计量经济学的原因吧（虽然计量学的也不是特别明白）。现在真是意外地发现数据分析，深度学习，实证分析的理论基础基本上是相同的，然而最担心的就是自己现在的数学功底不是很好，但是这个方向感觉是跑不掉了。至少是实打实的技术，顺便和金融还有那么一点关系。所以说以后的方向也就有了，基本上是计算机+统计学。感觉又是漫漫的学习之路…… 最后发现学院2018年的方向也变了 2018年招收专业为金融学（数据与计量分析） 金融计量分析方向 金融大数据分析方向 不知道是好事还是坏事……]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[关于投机]]></title>
+    <url>%2F2018%2F07%2F13%2F%E5%85%B3%E4%BA%8E%E6%8A%95%E6%9C%BA%2F</url>
+    <content type="text"><![CDATA[前言一直在投机这方面摸爬滚打，到现在还是没有什么变化。想了想还是自己没有形成自己的判断。希望这篇文章能不断总结我的想法，形成自己的体系。 理念最重要的还是顺势而为。随着市场的方向去做单，才是最明智的。 底部建仓，高位抛出。说出来感觉很简单，但是永远判断不好。 策略不敢奢求波段，目前先只看日线来分析。 （这样每天也能减少不必要看盘的时间） 每天坚持分析，挂单操作。短线的话暂时不考虑了，交易频繁也不是件好事。 细节暂时先写到这篇文章里吧 每次思考后的操作都需要得到反馈，并对操作进行反思。]]></content>
       <categories>
-          
-          <category> 投机 </category>
-          
+        <category>投机</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 投机 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    <entry>
-      <title>第一篇文章</title>
-      <link href="/2018/07/12/first/"/>
-      <url>/2018/07/12/first/</url>
-      <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>（<del>先写着，排版的事后面再说。</del> 不打算排版了，就这样挺好的。）<br>在各种地方写东西还是不如自己建个站来的痛快，何况令人惊喜的是还可以添加搜索功能，这就很舒服了。<br><a id="more"></a><br><del>看来要先学会markdown语法，好好学下排版再说。</del><br>把分类和标签弄下，嗯，还有搜索功能。</p><p>分类 标签 搜索基本上都弄好了。至于美化的话，算了，又不是不能用。</p><h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><p>看看能计划些什么</p><ul><li>计算机网络原理&amp;抓包</li><li>linux</li><li>投机</li><li>数据分析</li><li>英语</li><li>编程</li></ul><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>想学的东西确实很多，一步一步慢慢来吧。</p>]]></content>
-      
-      
-    </entry>
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2018/07/12/hello-world/"/>
-      <url>/2018/07/12/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<br><a id="more"></a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-    </entry>
-    
-  
-  
+      <tags>
+        <tag>投机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[第一篇文章]]></title>
+    <url>%2F2018%2F07%2F12%2Ffirst%2F</url>
+    <content type="text"><![CDATA[前言（先写着，排版的事后面再说。 不打算排版了，就这样挺好的。）在各种地方写东西还是不如自己建个站来的痛快，何况令人惊喜的是还可以添加搜索功能，这就很舒服了。看来要先学会markdown语法，好好学下排版再说。把分类和标签弄下，嗯，还有搜索功能。 分类 标签 搜索基本上都弄好了。至于美化的话，算了，又不是不能用。 计划看看能计划些什么 计算机网络原理&amp;抓包 linux 投机 数据分析 英语 编程 最后想学的东西确实很多，一步一步慢慢来吧。]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F07%2F12%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
 </search>
